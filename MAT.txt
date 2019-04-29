@@ -1,0 +1,48 @@
+Mobile application testing is the process of testing the application on a mobile device for its functionality,compatibility,usability, performance and consistency. 
+
+Key Objectived of MAT
+Hardware compatibility 
+OS compatibility 
+Source code evaluation 
+Usability and Functionality 
+
+Types of MAT
+Native application
+Web application
+Hybrid application
+
+Types of MAT
+Functional testing
+Performance testing
+Interrupt testing
+Memory leakage testing
+Installation testing
+Security testing
+
+Approaches of MAT
+Manual
+Automation
+
+Tools used for MAT
+Appium
+Robotium
+MonkeyTalk
+FrankiOS
+SeeTest
+
+MAT using Emulator / Simulator 
+These are almost free,just need to download and install them
+It provides step-by-step debugging of an application and provides an efficient way for capturing screenshots
+
+Difference between  Mobile App Testing and Mobile Device Testing 
+Mobile App Testing:the testing of a developed application software to check whether it is working with all features which are are newly launching and also checking whether the app is running correctly in different devices like mobiles, tablets, ipad etc., and also the different platforms like Android, iOS, Blackberry and Windows.
+Mobile Device Testing: mobile devices are tested to check the functionality and features of the component,Testing includes hardware and software testing for a mobile that is all the new features provided in the component is working according to the requirements or not.
+
+challenges in mobile application testing
+Multiple Mobile Platform and Version.
+Mobile device Diversity.
+Frequent releases.
+Test Execution challenge.
+Varying network condition.
+Different mobile app types.
+
